@@ -67,10 +67,6 @@ public class Book {
             System.out.println("Open the book first");
     }    
 }
-
-
-public class First {
-    
     public static void main(String[] args) {
         Book The_way_to_Success=new Book("Moaaz","The way to Success",2023,500);
         Book C_plus_plus=new Book("Moaaz Ahmed","C++",2018,870);
