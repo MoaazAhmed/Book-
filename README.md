@@ -3,6 +3,7 @@ My first repository on github
 
 package Java_101;
 public class Book {
+
     // This is the Auther name related to te book
     public String auther;
     // This is the name of the book 
@@ -67,6 +68,7 @@ public class Book {
             System.out.println("Open the book first");
     }    
 }
+
     public static void main(String[] args) {
         Book The_way_to_Success=new Book("Moaaz","The way to Success",2023,500);
         Book C_plus_plus=new Book("Moaaz Ahmed","C++",2018,870);
